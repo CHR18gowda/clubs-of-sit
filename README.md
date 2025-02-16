@@ -25,7 +25,8 @@ The "Clubs of SIT" project is designed to help students discover and engage with
 - **Version Control**: Git
 
 ## Contact
-dileep7349@gmail.com
+chethankumarhr2@gmail.com
+
 
 
 
